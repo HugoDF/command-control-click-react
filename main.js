@@ -6,9 +6,9 @@ import ReactDOM from 'react-dom';
 const CmdControlClick = ({onCmdControlClick, onClick}) => (
   <button
     type="button"
-    onClick={e => {
-      if (e.ctrlKey || e.metaKey) return onCmdControlClick(e);
-      onClick(e);
+    onClick={event => {
+      if (event.ctrlKey || event.metaKey) return onCmdControlClick(event);
+      onClick(event);
     }}
   >
     Click me
