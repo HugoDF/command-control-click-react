@@ -11,7 +11,7 @@
   "author": "Hugo Di Francesco",
   "dependencies": {
     "parcel-bundler": "^1.12.4",
-    "react": "^16.9.0",
+    "react": "^16.13.1",
     "react-dom": "^16.13.0"
   },
   "main": "main.js",
