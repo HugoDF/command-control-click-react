@@ -24,7 +24,7 @@
   "description": "Simple React Command or Control + click detection",
   "devDependencies": {
     "eslint-config-xo-react": "^0.20.0",
-    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^3.0.0",
     "prop-types": "^15.7.2",
     "xo": "latest"
