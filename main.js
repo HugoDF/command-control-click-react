@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom';
 const CmdControlClick = ({onCmdControlClick, onClick}) => (
   <button
     type="button"
-    onClick={event => {
+    onClick={(event) => {
       if (event.ctrlKey || event.metaKey) return onCmdControlClick(event);
       onClick(event);
     }}
