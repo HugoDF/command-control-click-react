@@ -27,7 +27,7 @@
     "eslint-plugin-react": "^7.20.3",
     "eslint-plugin-react-hooks": "^4.0.5",
     "prop-types": "^15.7.2",
-    "xo": "^0.32.0"
+    "xo": "^0.32.1"
   },
   "xo": {
     "extends": "xo-react",
