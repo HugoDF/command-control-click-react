@@ -23,7 +23,7 @@
   "license": "MIT",
   "description": "Simple React Command or Control + click detection",
   "devDependencies": {
-    "eslint-config-xo-react": "^0.25.0",
+    "eslint-config-xo-react": "^0.27.0",
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.4.0",
     "prop-types": "^15.7.2",
